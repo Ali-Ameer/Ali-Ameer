@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Frontend Developer | UI/UX Designer | JavaScript Enthusiast</h3>
 
 <p align="center">
-🌍 Iraq | 💼 Open to Remote & Onsite Opportunities  
+🌍 Iraq | 💼 Open to Remote & hybrid Opportunities  
 </p>
 
 ---
